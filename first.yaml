@@ -1,3 +1,7 @@
 Hello World! This is my first commit! ^_^
 This is an additional comment.
+<<<<<<< HEAD
 local repo
+=======
+remote repo
+>>>>>>> a6519ad3153bfa47d7f083230c7fc71ad8f15b99
